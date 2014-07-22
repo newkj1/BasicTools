@@ -1,0 +1,21 @@
+[
+{
+"modid": "BasicTools",
+"name": "BasicTools",
+"description": "some extra basic tools",
+"version": "1.0",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authors": [
+"Newkj","Felix0900"
+],
+"credits": "See thread",
+"logoFile": "",
+"screenshots": [
+],
+"parent":"",
+"dependencies": [
+]
+}
+]
